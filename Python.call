@@ -1,0 +1,10 @@
+# hacktoberfest_greeting.py - Simple Python Contribution
+
+# Function to print a personalized Hacktoberfest message
+def greet_contributor(name):
+    print(f"Hello, {name}!")
+    print("Happy Hacktoberfest 2025! This is my contribution to open source.")
+    print("Keep learning and keep coding!")
+
+# Calling the function with a placeholder name
+greet_contributor("Mayuri9356") 
